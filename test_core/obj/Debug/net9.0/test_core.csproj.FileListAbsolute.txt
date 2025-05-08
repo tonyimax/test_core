@@ -7,6 +7,7 @@
 /home/dev/Desktop/code/examples/test_core/test_core/obj/Debug/net9.0/test_core.AssemblyInfoInputs.cache
 /home/dev/Desktop/code/examples/test_core/test_core/obj/Debug/net9.0/test_core.AssemblyInfo.cs
 /home/dev/Desktop/code/examples/test_core/test_core/obj/Debug/net9.0/test_core.csproj.CoreCompileInputs.cache
+/home/dev/Desktop/code/examples/test_core/test_core/obj/Debug/net9.0/test_core.sourcelink.json
 /home/dev/Desktop/code/examples/test_core/test_core/obj/Debug/net9.0/test_core.dll
 /home/dev/Desktop/code/examples/test_core/test_core/obj/Debug/net9.0/refint/test_core.dll
 /home/dev/Desktop/code/examples/test_core/test_core/obj/Debug/net9.0/test_core.pdb
